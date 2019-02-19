@@ -1,0 +1,6 @@
+.DS_Store
+
+# Xcode
+# this ignores dummy workspace files in xcodeproj dir
+ciimage-mtkview.xcodeproj/*
+!ciimage-mtkview.xcodeproj/project.pbxproj
